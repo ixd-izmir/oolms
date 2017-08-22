@@ -1,0 +1,27 @@
+{
+  "name": "oolms",
+  "version": "0.1.0",
+  "description": "A customized Learning Management System written for Electron",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ixd-izmir/oolms"
+  },
+  "keywords": [
+    "lms",
+    "electron",
+    "classroom"
+  ],
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Daniele Savasta",
+  "contributors": [
+    "Daniele Savasta <daniele.savasta@gmail.com> (http://dan.sv.it)",
+    "Ceren Kayalar <cerenk@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}
