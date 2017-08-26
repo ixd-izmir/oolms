@@ -20,3 +20,15 @@ Soon online, just started, stay tuned!
  
  -devDependency
   - electron
+
+```npm start```
+
+`execute the app`
+
+#packager
+https://github.com/electron-userland/electron-packager
+
+#resources
+https://github.com/sindresorhus/awesome-electron
+https://github.com/kapetan/electron-drag
+https://github.com/gerhardberger/electron-pdf-window
