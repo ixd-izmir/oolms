@@ -14,7 +14,9 @@ Soon online, just started, stay tuned!
 ```npm install```
 
 `installs`
+ 
  -dependency
   - ftp 
+ 
  -devDependency
   - electron
