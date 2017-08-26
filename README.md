@@ -12,9 +12,9 @@ Soon online, just started, stay tuned!
 
 # install dependencies and compile
 ```npm install```
-<!-- installs
+' installs
  dependency
   - ftp 
  devDependency
   - electron
--->
+'
