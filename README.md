@@ -9,3 +9,11 @@ The instructors will have their own desktop application client which allow them 
 The evaluations will be visualized and collected with the comments to generate an evalation form to be given to the students at the end of the course.
 
 Soon online, just started, stay tuned!
+
+# install dependencies and compile
+npm install 
+// installs
+// dependency
+//  - ftp 
+// devDependency
+//  - electron
