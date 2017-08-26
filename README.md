@@ -11,9 +11,10 @@ The evaluations will be visualized and collected with the comments to generate a
 Soon online, just started, stay tuned!
 
 # install dependencies and compile
-npm install 
-// installs
-// dependency
-//  - ftp 
-// devDependency
-//  - electron
+```npm install```
+<!-- installs
+ dependency
+  - ftp 
+ devDependency
+  - electron
+-->
